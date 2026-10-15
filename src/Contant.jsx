@@ -10,7 +10,7 @@ function Contant() {
           <form className="form-box card shadow p-4 mx-auto w-100">
             <div class="container-block form-wrapper">
               <p className="fw-bold mb-2">
-                Get in Touch
+                Get in Touch 
               </p>
               <p className='text-secondry fs-5 mb-0'>
                 Nunc erat cursus tellus gravida.
